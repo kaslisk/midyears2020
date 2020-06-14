@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, cursive;
+  color: #000000;
+  padding: 20px;
+  background: #000000;
+}
+
+.header {
+  font-family: Arial;
+  color: #000000;
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: #D3D3D3;
+}
+
+.thing {
+   background-color: #D3D3D3;
+   padding: 20px;
+   margin-top: 20px;
+   font-size: 32px;
+   color: #000000;
+}
+img {
+  width: 99.8%;
+  height: 20%;
+}
+
+p {
+  font-family: Arial;
+  color: #000000;
+}
+
+h2 {
+  color:#000000;
+}
