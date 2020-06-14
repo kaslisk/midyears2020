@@ -1,18 +1,18 @@
 .header {
   font-family: Arial;
+  text-align: center;
   color: #000000;
+  background: #D3D3D3;
   padding: 20px;
   font-size: 30px;
-  text-align: center;
-  background: #D3D3D3;
 }
 
 .thing {
    background-color: #D3D3D3;
+   color: #000000;
+   font-size: 30px;
    padding: 20px;
    margin-top: 20px;
-   font-size: 30px;
-   color: #000000;
 }
 
 p {
@@ -26,9 +26,9 @@ h1 {
 
 body {
   font-family: Arial;
+  background: #000000;
   color: #000000;
   padding: 20px;
-  background: #000000;
 }
 
 img {
