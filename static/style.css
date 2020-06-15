@@ -5,9 +5,10 @@
   padding: 20px;
   font-size: 30px;
   background: rgb(131,58,180);
-  background-image: -moz-linear-gradient(90deg, #833ab4 0%, #fd1d1d 50%, #fcb045 100%);
-  background-image: -webkit-linear-gradient(90deg, #833ab4 0%, #fd1d1d 50%, #fcb045 100%);
-  background-image: -ms-linear-gradient(90deg, #833ab4 0%, #fd1d1d 50%, #fcb045 100%);
+  background-image: -moz-radial-gradient(circle, #3f5efb 0%, #fc466b 100%);
+  background-image: -webkit-radial-gradient(circle, #833ab4 0%, #fc466b 100%);
+  background-image: -ms-radial-gradient(circle, #833ab4 0%, #fc466b 100%);
+
 }
 
 .thing {
@@ -32,9 +33,9 @@ body {
   color: #000000;
   padding: 20px;
   background: rgb(63,94,251);
-  background-image: -moz-radial-gradient(circle, #3f5efb 0%, #fc466b 100%);
-  background-image: -webkit-radial-gradient(circle, #833ab4 0%, #fc466b 100%);
-  background-image: -ms-radial-gradient(circle, #833ab4 0%, #fc466b 100%);
+  background-image: -moz-linear-gradient(90deg, #833ab4 0%, #fd1d1d 50%, #fcb045 100%);
+  background-image: -webkit-linear-gradient(90deg, #833ab4 0%, #fd1d1d 50%, #fcb045 100%);
+  background-image: -ms-linear-gradient(90deg, #833ab4 0%, #fd1d1d 50%, #fcb045 100%);
 
 img {
   width: 90%;
