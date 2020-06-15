@@ -1,5 +1,5 @@
 .header {
-  font-family: font-family: 'Raleway', sans-serif;
+  font-family: font-family: Arial;
   text-align: center;
   color: #000000;
   padding: 20px;
@@ -20,7 +20,7 @@
 }
 
 p {
-  font-family: font-family: 'Raleway', sans-serif;
+  font-family: font-family: Arial;
   color: #000000;
 }
 
@@ -29,7 +29,7 @@ h1 {
 }
 
 body {
-  font-family: font-family: 'Raleway', sans-serif;
+  font-family: font-family: Arial;
   color: #000000;
   padding: 20px;
   background: rgb(63,94,251);
